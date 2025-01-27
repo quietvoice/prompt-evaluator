@@ -99,8 +99,8 @@ Quality Feedback and Improvement Suggestions:
 def evaluate_with_openai(prompt):
 
     try:
-        # Replace `gpt-3.5-turbo` with the model you want:
-        response = client.chat.completions.create(model="gpt-3.5-turbo",
+        # Replace `gpt-4o-mini` with the model you want:
+        response = client.chat.completions.create(model="gpt-4o-mini",
         messages=[
             {
                 "role": "system",
