@@ -8,4 +8,12 @@ Curioprompt: https://www.curioprompt.com
 
 Curioforce Corp.: https://www.curioforce.com
 
+How to use: 
+
+```
+% python3 commandline-prompt-evaluator.py "What you want to evaluate"
+```
+
 (C)Tsubasa Kato - January 27th, 2025
+
+
